@@ -1,4 +1,4 @@
-# find the second largest number in a list
+ # find the second largest number in a list
 list1 = []
 try:
     num1 = int(input("Enter the number of elements in a list: "))
